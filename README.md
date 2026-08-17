@@ -71,3 +71,8 @@ This project helped strengthen practical skills in:
 - Interpreting trends and patterns
 
 ## 📂 Project Files
+
+[Uploading Canada_Immigration_Data_Analysis.ipynb…]()
+Add Canada Immigration analysis report
+
+
