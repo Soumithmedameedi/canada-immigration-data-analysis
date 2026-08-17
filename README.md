@@ -1,4 +1,3 @@
-<img width="1105" height="830" alt="Screenshot 2026-08-17 162640" src="https://github.com/user-attachments/assets/f96206c3-ec65-4c1e-ba7a-d76d2ab07e04" />
 # Canada-immigration-data-analysis
 Exploratory analysis of Canada immigration trends from 1980–2013 using Python, Pandas, NumPy, and Matplotlib. Includes data cleaning, country-level analysis, India vs. China comparison, top contributing countries, continent-level aggregation, and data visualization.
 # Canada Immigration Data Analysis
