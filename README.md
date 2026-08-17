@@ -72,4 +72,5 @@ This project helped strengthen practical skills in:
 
 ## 📂 Project Files
 
+[Canada_Immigration_Data_Analysis_Git.ipynb](https://github.com/user-attachments/files/31140393/Canada_Immigration_Data_Analysis_Git.ipynb)
 
